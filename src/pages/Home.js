@@ -10,7 +10,7 @@ class Home extends Component {
             <Row>
               <Col size="md-6">
                 <Jumbotron>
-                  <h1>Home Page</h1>
+                  <h1>Google Books Search</h1>
                 </Jumbotron>
                 </Col>
         </Row>
